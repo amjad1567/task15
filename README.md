@@ -15,20 +15,20 @@ Screenshots: A folder containing screenshots of the exploitation process at each
 Prerequisites
 Docker installed on your system.
 
-sudo apt install docker.io
+# sudo apt install docker.io
 
 Basic knowledge of SQL Injection and web vulnerabilities.
 Tools like Burp Suite to intercept and modify HTTP requests.
 
 Installation Instructions
 Clone the Repository:
-git clone https://github.com/eystsen/pentestlab.git 
+# git clone https://github.com/eystsen/pentestlab.git 
 
-cd pentestlab
+# cd pentestlab
 
 Accessing to the DVWA Web Page 
 
- ./pentestlab.sh start dvwa
+# ./pentestlab.sh start dvwa
 
 Access DVWA: Open your web browser and navigate to http://localhost:80. Login to DVWA with the default credentials:
 
