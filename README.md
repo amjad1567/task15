@@ -33,7 +33,9 @@ Accessing to the DVWA Web Page
 Access DVWA: Open your web browser and navigate to http://localhost:80. Login to DVWA with the default credentials:
 
 Username: admin
+
 Password: password
+
 Configure DVWA:
 
 Go to the DVWA setup page and click "Create / Reset Database."
